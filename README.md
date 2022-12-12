@@ -1,2 +1,1 @@
-# Book-Search-Engine
-Week 21: MERN Challenge: Book Search Engine
+# Book Search Engine Starter Code
