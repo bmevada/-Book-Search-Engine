@@ -15,8 +15,8 @@ The following has been completed for this assignment:
 4. Deployed application to Heroku with a MongoDB database using MongoDB Atlas
 
 ## Links to Deployed Applications: 
-[Link to deployed working application] https://pacific-cliffs-25675.herokuapp.com/
-[Link to Github]
+-[Link to deployed working application] https://pacific-cliffs-25675.herokuapp.com/
+-[Link to Github]https://github.com/bmevada/Book-Search-Engine.git
 
 
 ## User Story
